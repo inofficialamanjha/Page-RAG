@@ -1,0 +1,12 @@
+# IDE
+.idea/
+
+# Python
+.venv/
+
+# Project Specific
+database/.chroma.db/
+controller/.uploads/
+
+# Remove all __pycache__ directories
+**/__pycache__/
